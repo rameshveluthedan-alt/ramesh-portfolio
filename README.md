@@ -17,7 +17,7 @@ AI-powered Telegram bot supporting teachers with:
 👉 Multilingual support  
 👉 RAG-lite architecture  
 
-🔗 https://github.com/rameshveluthedan-alt/teachclear  
+🔗 https://github.com/rameshveluthedan-alt/Teach-Clear  
 
 ---
 
@@ -26,7 +26,7 @@ AI-powered Telegram bot supporting teachers with:
 - OCR for textbook questions  
 - Supports 12 Indian languages  
 
-🔗 https://github.com/rameshveluthedan-alt/learnclear  
+🔗 https://github.com/rameshveluthedan-alt/Learn-Clear 
 
 ---
 
@@ -35,7 +35,7 @@ AI-powered Telegram bot supporting teachers with:
 - Detects abnormal lab values  
 - Multilingual output  
 
-🔗 https://github.com/yourusername/medclear  
+🔗 https://github.com/rameshveluthedan-alt/Med-Clear  
 
 ---
 
@@ -43,7 +43,7 @@ AI-powered Telegram bot supporting teachers with:
 - Automates systematic sampling  
 - Reduces time from 15 minutes → 10 seconds  
 
-🔗 https://github.com/yourusername/classroom-sampler  
+🔗 https://github.com/rameshveluthedan-alt/Systematic-Sampling-App  
 
 ---
 
@@ -71,4 +71,5 @@ I come from an education and MEL background and am now building AI systems to so
 
 ## 🔗 Connect
 
-LinkedIn: https://linkedin.com/in/yourprofile  
+LinkedIn: https://linkedin.com/in/rameshveluthedan/
+
